@@ -3,7 +3,11 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaualimadesouza15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-souza-8724b9208/)
 
+
 ![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaua15&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua15&hide_progress=true)
+
+
 
 ## Tecnologias usadas
 
