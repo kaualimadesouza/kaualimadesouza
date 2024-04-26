@@ -1,4 +1,4 @@
-# Olá! Eu sou o Kauã Lima 
+# Kauã Lima de Souza
 
 Information Systems student at the University of São Paulo, Brazil. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. Passionate about arts and technology.
 
