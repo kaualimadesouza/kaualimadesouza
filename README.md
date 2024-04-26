@@ -1,4 +1,6 @@
-## Olá! Eu sou o Kauã Lima 
+# Olá! Eu sou o Kauã Lima 
+
+Information Systems student at the University of São Paulo, Brazil. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. Passionate about arts and technology.
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaualimadesouza15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-souza-8724b9208/)
@@ -9,7 +11,7 @@
 
 
 
-## Tecnologias usadas
+# Tecnologias usadas
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
