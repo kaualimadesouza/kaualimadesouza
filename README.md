@@ -6,9 +6,6 @@ Information Systems student at the University of São Paulo, Brazil. My first "H
 
 
 ![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaua15&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua15&exclude_repo=github-readme-stats,anuraghazra.github.io)
-
-
 
 # Tecnologias usadas
 
