@@ -5,12 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-kaualimadesouza15@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaualimadesouza15@gmail.com)](mailto:kaualimadesouza15@gmail.com)
 
 ## My name is Kauã Lima de Souza
-Java | Spring Boot | AWS | React JS | Typescript | Javascript | Tailwind CSS | HTML | CSS 
-- 🎓 Information Systems Student @ [USP](https://portal.ufpel.edu.br/)
-- 🌐 Passionate about web development
+Python | C | Java | Spring Boot | AWS | Lambda | Docker | FastAPI | Prefect | Spring Boot | Git | Github | Algorithms and Data Structures
+- 🎓 Information Systems Student @ [USP](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N)
+- 🌐 Passionate about web development and Computing
 
-<div align="left">
-  
-[![Kaua top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaualimadesouza&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
