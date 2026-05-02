@@ -1,11 +1,23 @@
-<h1>Hi There!</h1>
+<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/kaualimadesouza)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://www.kaualimadesouza.com/)
-[![Gmail Badge](https://img.shields.io/badge/-kaualimadesouza15@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaualimadesouza15@gmail.com)](mailto:kaualimadesouza15@gmail.com)
+  ### Olá! Me chamo Kauã 👋
 
-## My name is Kauã Lima de Souza
-Python | C | Java | Spring Boot | AWS | Lambda | Docker | FastAPI | Prefect | Spring Boot | Git | Github | Algorithms and Data Structures
-- 🎓 Information Systems Student @ [USP](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N)
-- 🌐 Passionate about web development and Computing
+  Estagiário de Engenharia de Software em uma gestora quantitativa.
+  Estudo Sistemas de Informação na USP e curto construir coisas que
+  misturam código, dados e mercado financeiro.
 
+  Aqui guardo meus projetos pessoais e acadêmicos. Fica à vontade =]
+
+  <br/>
+
+  <a href="mailto:kaualimadesouza15@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/kaualimadesouza" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://portfolio-kaualimadesouza-kauas-projects-6ea027af.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+
+</div>
